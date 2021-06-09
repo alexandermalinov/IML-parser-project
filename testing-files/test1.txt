@@ -1,0 +1,19 @@
+<SRT-ORD "ASC">81 3
+	<MAP-INC "1">4 12 55
+		<AGG-AVG>4 8
+			<SRT-DST>
+				<SRT-SLC "3">57 18 9
+					<MAP-INC "-3">4 2 2</MAP-INC>
+				5</SRT-SLC>
+			</SRT-DST>
+		</AGG-AVG>
+	</MAP-INC>
+22</SRT-ORD>
+<SRT-DST>
+	<SRT-SLC "3">57 18 9
+		<MAP-INC "-3">4 2 2</MAP-INC>
+	5</SRT-SLC>
+</SRT-DST>
+<MAP-MLT "-1.5">-3, 3, 4.5
+	<SRT-ORD "ASC">-9, 7, 3</SRT-ORD>
+</MAP-MLT>

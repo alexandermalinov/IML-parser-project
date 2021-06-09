@@ -1,0 +1,7 @@
+<MAP-MLT "-1.5">-3, 3, 4.5
+	<SRT-ORD "ASC">-9, 7, 3
+	    <AGG-LST> 8, 4, 50, 13, 17, 16
+	        <AGG-FST> 16, 4, 8, 33</AGG-FST>
+	    </AGG-LST>
+	</SRT-ORD>
+</MAP-MLT>
